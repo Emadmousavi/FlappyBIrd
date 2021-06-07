@@ -1,4 +1,4 @@
-# FlappyBIrd
+# FlappyBird
 This is the "Fundamental Programing" midterm course project.
 
 Actually it was my first project
